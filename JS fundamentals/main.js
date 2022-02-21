@@ -36,7 +36,7 @@ const myName = "Krista";
 const familyName = "Kozlova";
 const group = "Lv-678.JS Core";
 const yearOfBirth = 1988;  
-let isMarried = false;
+const isMarried = false;
 
 console.log(typeof myName);
 console.log(typeof familyName);
@@ -61,7 +61,7 @@ console.log(typeof cinelliFan);
 let userName = prompt("Please enter your login", " ");
     let userEmail = prompt("Please enter your email", " ");
     let userPassword = prompt("Please enter your password", " ");
- alert("Dear " + userName + "! your email is" + userEmail + ", " + "your password is " + userPassword); 
+ alert("Dear " + userName + "! your email is " + userEmail + ", " + "your password is " + userPassword); 
 
 
 
